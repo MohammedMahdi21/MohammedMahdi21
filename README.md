@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p align="center">
   <img src="https://media.tenor.com/rCaIUO0MP-EAAAAd/mario-pixel-art.gif" alt="Mario Pixel Art GIF">
-</div>
+</p>
 
 <h1 align="center"> Hello! I'm Moe 👋</h1>
 
