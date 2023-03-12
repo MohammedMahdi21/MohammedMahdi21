@@ -20,24 +20,20 @@
   <p>
 <p align="left"> 
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
- <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-      
+ <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>   
 <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
-      
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>     
 <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
-<img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chai" width="40" height="40"/> </a>
-      
+<img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chai" width="40" height="40"/> </a>    
  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
   <p/>
   <h3>Database & Others:</h3>
-  <p>
-    <img alt="postgresql" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-    <img alt="git" height="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-    <img alt="storybook" height="45px" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" />
 
+  <p align="left">
 </p>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <img alt="storybook" height="45px" src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" /></p>
+
  </h2>
  
  ---
