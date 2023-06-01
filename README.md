@@ -6,9 +6,9 @@
 
 🍁 I am a Full-Stack Developer
 <br>
-👩🏻‍💻 I am currently working on: Brushing up on JavaScript!💻
+👩🏻‍💻 I am currently working on: My portfolio website!💻
 <br>
-🌱 I’m currently learning / Taking: IBM Full Stack Software Developer Professional Certificate
+🌱 I’m currently learning / Taking: Python
 <br>
 📫 How to reach me: [email me](mailto:mmd.mahdi21@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/moemahdi/)
 
