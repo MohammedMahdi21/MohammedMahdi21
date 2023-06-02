@@ -6,7 +6,7 @@
 
 🍁 I am a Full-Stack Developer
 <br>
-👩🏻‍💻 I am currently working on: My portfolio website!💻
+👨🏻‍💻 I am currently working on: My portfolio website!💻
 <br>
 🌱 I’m currently learning / Taking: Python
 <br>
