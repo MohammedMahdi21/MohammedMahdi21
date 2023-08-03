@@ -40,12 +40,3 @@
  
  ---
  
- 
-  <h2 align="center"> Github Stats:
-<h3>
- </h3>
-
-| <a href="https://github.com/cogarvey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cogarvey&show_icons=true&theme=jolly&hide_border=true" alt="Colleen's github stats" /></a> | <a href="https://github.com/cogarvey/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogarvey&layout=compact&langs_count=8&theme=jolly&hide_border=true" /></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-</h2>
