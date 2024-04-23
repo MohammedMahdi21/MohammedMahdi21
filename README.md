@@ -8,7 +8,7 @@
 <br>
 👨🏻‍💻 I am currently working on: My portfolio website!💻
 <br>
-🌱 I’m currently learning / Taking: Python
+🌱 I’m currently learning / Taking / Building: Full-Stack Project using Ai
 <br>
 📫 How to reach me: [email me](mailto:mmd.mahdi21@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/moemahdi/)
 
